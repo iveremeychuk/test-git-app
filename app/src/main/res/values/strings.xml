@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Learn git</string>
+    <string name="title">My first git project!</string>
 </resources>
